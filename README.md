@@ -1,1 +1,4 @@
 # Capstone-Portfolio
+
+Hello, my name is Ethan Lott. I am a senior computer science major at the University of St. Thomas. Growing up I always knew that I wanted to work with computers. In high school I started learning how to code in my AP Computer Science course and volunteered as a student technology aide, which gave me a great foundation of knowledge. In my time studying computer science in college, I have expanded upon that knowledge base more than I could have hoped to. The skills I have gained in languages such as Java, JavaScript, Python, and experience with concepts such as Algorithms, Object Oriented Programming, and Web Design will stick with me throughout my career in this field. I am incredibly excited to continue learning and build upon what I was taught here at UST. Here are some of the projects I worked on during my time here:
+
